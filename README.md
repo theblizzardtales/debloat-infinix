@@ -2,3 +2,4 @@
 Credits from https://www.hovatek.com/blog/my-experience-debloating-a-transsion-tecno-infinix-itel-hios-device/
 
 > Will not remove GPlayStore & GServices.
+>> Might add a script for Linux just in case.
