@@ -7,10 +7,6 @@ REM Model : X6826C (XOS 12)
 REM
 REM Manually Curated by me.
 REM
-REM Credits to these websites:
-REM https://www.hovatek.com/blog/my-experience-debloating-a-transsion-tecno-infinix-itel-hios-device/
-REM https://muntashirakon.github.io/android-debloat-list/index.html
-REM
 REM Removes a set of packages that aren't usually needed, including some of Google's pre-installed apps.
 REM
 REM This does not include Google Play Store and Google Play Services, as they are needed for some apps
