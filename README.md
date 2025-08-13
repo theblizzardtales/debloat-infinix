@@ -3,5 +3,11 @@ Credits: <br>
 https://www.hovatek.com/blog/my-experience-debloating-a-transsion-tecno-infinix-itel-hios-device/
 https://muntashirakon.github.io/android-debloat-list/index.html
 
-> Will not remove GPlayStore & GServices.
->> Might add a script for Linux just in case.
+### To execute:
+
+Download this script 
+
+Move to `platform-tools` folder, or wherever your adb folder is
+
+Assuming the device is already plugged into the computer, just execute it with `.\debloat.bat`
+
